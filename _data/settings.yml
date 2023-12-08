@@ -2,7 +2,7 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
+- {name: 'Work', url: ''}
 #- {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
@@ -11,20 +11,20 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Narrative',   url: 'narrative'}
+- {name: 'Advertising',   url: 'advertising'}
+- {name: 'Advancement', url: 'advancement'}
+- {name: 'Fine Art',  url: 'fine-art'}
+- {name: 'Photography',  url: 'photography'}
 
 #-------------------------------
 # Contact Section
 
 social:
 #- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'instagram', link: 'https://instagram.com/blinka'}
+- {icon: 'github',    link: 'https://github.com/lunablinka'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/lunavanaman/'}
 #- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
@@ -54,6 +54,6 @@ social:
 # Disqus Section
 
 # Change to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: ''
+#disqus:
+#  comments: false
+#  disqus_shortname: ''
