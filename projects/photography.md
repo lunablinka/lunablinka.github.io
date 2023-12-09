@@ -3,10 +3,10 @@ layout: post
 title: 'Photography'
 ---
 
-{% include image.html image="projects/art-to-wear-mask.jpg" alt="" %}
+{% include image.html image="projects/photography/art-to-wear-mask.jpg" alt="" %}
 
-{% include image.html image="projects/extraordinary-opportunities.jpg" alt="" %}
+{% include image.html image="projects/photography/extraordinary-opportunities.jpg" alt="" %}
 
-{% include image.html image="projects/super-impose-experimental.jpg" alt="" %}
+{% include image.html image="projects/photography/super-impose-experimental.jpg" alt="" %}
 
-{% include image.html image="projects/thumbnail.jpg" alt="" %}
+{% include image.html image="projects/photography/thumbnail.jpg" alt="" %}
