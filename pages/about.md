@@ -7,7 +7,7 @@ permalink: /about
 # Luna Vanaman
 
 <div style="width:200px;height:200px;overflow:hidden;border-radius:50%">
-    <img src="/assets/img/luna.png" />
+    <img src="/assets/img/luna.jpg" />
 </div>
 
 I am 
