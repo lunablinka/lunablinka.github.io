@@ -4,15 +4,11 @@ title: About
 permalink: /about
 ---
 
-# Luna Vanaman
-
-<div style="width:200px;height:200px;overflow:hidden;background: url(/assets/img/luna.jpg) 50% 50% no-repeat;border-radius:50%">
+<div style="width:200px;height:200px;overflow:hidden;background: url(/assets/img/luna.jpg) contain;border-radius:50%">
     <img src="" />
 </div>
 
 I am 
-
-
 
 I have a background in
 
