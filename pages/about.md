@@ -6,7 +6,11 @@ permalink: /about
 
 # Luna Vanaman
 
+<img src="" style="border-radius:50%" max-width="200px" >
+
 I am 
+
+
 
 I have a background in
 
