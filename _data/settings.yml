@@ -14,18 +14,17 @@ projects:
 - {name: 'Narrative',   url: 'narrative'}
 - {name: 'Advertising',   url: 'advertising'}
 - {name: 'Advancement', url: 'advancement'}
-- {name: 'Fine Art',  url: 'fine-art'}
+- {name: 'Digital Canvas',  url: 'digital-canvas'}
 - {name: 'Photography',  url: 'photography'}
 
 #-------------------------------
 # Contact Section
 
 social:
-#- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
 - {icon: 'instagram', link: 'https://instagram.com/blinka'}
 - {icon: 'github',    link: 'https://github.com/lunablinka'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/lunavanaman/'}
-#- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'envelope',  link: 'mailto:lunavanaman.paul@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
