@@ -4,8 +4,7 @@ title: About
 permalink: /about
 ---
 
-<div style="width:200px;height:200px;overflow:hidden;background: url(/assets/img/luna.jpg) contain;border-radius:50%">
-    <img src="" />
+<div style="width:200px;height:200px;background: url(/assets/img/luna.jpg);border-radius:50%">
 </div>
 
 I am 
