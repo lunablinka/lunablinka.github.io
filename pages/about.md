@@ -23,4 +23,8 @@ I work to meet media consumers wherever they are while providing paths to access
 I want clients to feel seen and to be made real and tangible for media consumers.
 
 I strive to keep clients' stories at top of mind for consumers by leveraging the latest trends in media technologies, data analytics, and vertical marketing.
+<<<<<<< HEAD
 Every part of a campaign works synergistically to produce an experience that lingers in the memory of consumers and makes them curious to know more.
+=======
+Every part of a campaign works synergistically to produce an experience that lingers in the memory of consumers and makes them curious to know more.
+>>>>>>> a606a3d70cd5ec3643a61ab9502850393de79690
