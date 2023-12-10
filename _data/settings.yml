@@ -16,6 +16,7 @@ projects:
 - {name: 'Advancement', url: 'advancement'}
 - {name: 'Digital Canvas',  url: 'digital-canvas'}
 - {name: 'Photography',  url: 'photography'}
+- {name: 'Thesis', url: 'thesis'}
 
 #-------------------------------
 # Contact Section
