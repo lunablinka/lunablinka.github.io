@@ -4,10 +4,11 @@ title: About
 permalink: /about
 ---
 
-<div style="width:200px;height:200px;background: url(/assets/img/luna.jpg) contain;border-radius:50%">
+<div style="width:200px;height:200px;background: url(/assets/img/luna.jpg);background-repeat: no-repeat;background-size: 200px;border-radius:50%">
 </div>
+<br>
 
-VISUAL COMMUNICATION | DATA VISUALIZATION | MOTION | STORYTELLING 
+MOTION \| STORYTELLING \| VISUAL COMMUNICATION \| DATA VISUALIZATION
 
 I am an interactive media producer with 20+ years experience in visual storytelling, integrated marketing for both high level ad agencies, and higher-education entities. I have a background in critical design thinking and creating interdisciplinary, multimedia communications. 
 
