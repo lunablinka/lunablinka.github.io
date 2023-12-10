@@ -8,7 +8,7 @@ permalink: /about
 </div>
 <br>
 
-MOTION \| STORYTELLING \| VISUAL DATA COMMUNICATION
+**MOTION** \| **STORYTELLING** \| **VISUAL DATA COMMUNICATION**
 
 I am an interactive media producer with 20+ years experience in visual storytelling, integrated marketing for both high level ad agencies, and higher-education entities. I have a background in critical design thinking and creating interdisciplinary, multimedia communications. 
 
