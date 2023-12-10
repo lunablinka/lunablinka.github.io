@@ -3,7 +3,13 @@ layout: post
 title: 'Digital Canvas'
 ---
 
-In 2018, I set out to create a new born-digital work of art or design every day for one full year starting with nothing but a blank digital canvas on an iPhone.
+It is common practice for artists to carry sketchbooks and be ready to sketch or capture elements of the environment around them at any given moment.  
+
+I was fascinated by the idea that I could carry around a device capable not only of doing this but that would also allow me to do digital manipulations.
+
+So, in 2018, I set out to create a new born-digital work of art or design every day for one full year starting with nothing but a blank digital canvas on an iPhone.
+
+It was not only a great way to quickly play with form and color but also include wider audience experience and be able to share work in real time.
 
 The images featured here are a selection of the work I produced throughout that year as part of this project.
 
