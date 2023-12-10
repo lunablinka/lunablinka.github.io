@@ -31,10 +31,26 @@ header
   header
     height: 130px
     .logo
-      margin: 30px auto 0px
+      margin: 30px
       width: 100%
     nav
-      margin: 30px auto 0px
+      margin: 0px 30px 30px
+      width: 100%
+      float: left
+      a
+        margin-left: 10px
+        margin-right: 10px
+        font:
+          size: 16px
+
+@media (max-width: 440px)
+  header
+    height: 130px
+    .logo
+      margin: 30px 0px 30px
+      width: 100%
+    nav
+      margin: 30px
       width: 100%
       float: right
       a
