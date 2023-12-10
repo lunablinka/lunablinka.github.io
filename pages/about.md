@@ -24,3 +24,5 @@ I want clients to feel seen and to be made real and tangible for media consumers
 
 I strive to keep clients' stories at top of mind for consumers by leveraging the latest trends in media technologies, data analytics, and vertical marketing.
 Every part of a campaign works synergistically to produce an experience that lingers in the memory of consumers and makes them curious to know more.
+
+{% include image.html image="pages/about/process1.png" alt="A process photo of a planning board covered in Post-It notes and images with phrases like 'transformation forward', 'momentum', and 'touch' written on them" %}
