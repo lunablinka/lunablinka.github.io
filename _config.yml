@@ -8,7 +8,7 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
 title:		   "Luna Vanaman"
-description: "Powered by Jekyll and GitHub Page"
+description: "Motion | Storytelling | Visual Data Communication"
 author:      "Luna Vanaman"
 
 icon:

@@ -34,10 +34,10 @@ social:
 
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
-#seo:
-#  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-#  rel-author: 'https://plus.google.com/u/0/#'
-#  rel-publisher: 'https://plus.google.com/u/0/#'
+seo:
+  description: 'Motion | Storytelling | Visual Data Communication'
+  rel-author: 'https://lunav.xyz'
+  rel-publisher: 'https://lunav.xyz'
 
 #-------------------------------
 # Google Analytics Section
