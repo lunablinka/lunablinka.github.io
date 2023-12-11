@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Thesis'
+title: '"Girls on Grass" (Capstone Project)'
 ---
 
 I work in central marketing for a major public university. 
