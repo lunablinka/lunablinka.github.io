@@ -1,8 +1,8 @@
 <div class="image-container">
   {% if include.url %}
-  <a href="{{ include.url }}" target="_blank">
+  <a href="{{ include.url }}" data-lightbox="gallery" data-title="{{ include.alt }}">
   {% else %}
-  <a href="{{ site.github.url }}/assets/img/{{ include.image }}" target="_blank">
+  <a href="{{ site.github.url }}/assets/img/{{ include.image }}" data-lightbox="gallery" data-title="{{ include.alt }}">
   {% endif %}
     <img src="{{ site.github.url }}/assets/img/{{ include.image }}" alt="{{ include.alt }}" class="image">
     <div class="overlay">
