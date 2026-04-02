@@ -1,5 +1,5 @@
 ---
 layout: post
 title: Graphic Design
-thumbnail: /assets/img/project/thumbnail.jpg
+thumbnail: /assets/img/project/graphic-design/thumbnail.jpg
 ---
