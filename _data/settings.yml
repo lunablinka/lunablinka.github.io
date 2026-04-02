@@ -14,10 +14,11 @@ projects:
 - {name: 'Narrative',   url: 'narrative'}
 - {name: 'Advertising',   url: 'advertising'}
 - {name: 'Advancement', url: 'advancement'}
+- {name: 'Graphic Design', url: 'graphic-design'}
 - {name: 'Digital Canvas',  url: 'digital-canvas'}
 - {name: 'Photography',  url: 'photography'}
 - {name: 'Thesis', url: 'thesis'}
-- {name: 'Graphic Design', url: 'graphic-design'}
+
 
 #-------------------------------
 # Contact Section
