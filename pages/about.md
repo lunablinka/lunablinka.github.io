@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-<div style="width:200px;height:200px;background: url(/assets/img/luna2.JPG);background-repeat: no-repeat;background-size: 200px;border-radius:50%">
+<div style="width:200px;height:200px;background: url(/assets/img/luna2.jpg);background-repeat: no-repeat;background-size: 200px;border-radius:50%">
 </div>
 <br>
 
