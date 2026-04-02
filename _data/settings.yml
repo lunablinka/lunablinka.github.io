@@ -17,6 +17,7 @@ projects:
 - {name: 'Digital Canvas',  url: 'digital-canvas'}
 - {name: 'Photography',  url: 'photography'}
 - {name: 'Thesis', url: 'thesis'}
+- {name: 'Graphic Design', url: 'graphic-design'}
 
 #-------------------------------
 # Contact Section
