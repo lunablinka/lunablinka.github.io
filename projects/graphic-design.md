@@ -1,5 +1,5 @@
 ---
 layout: post
 title: Graphic Design
+thumbnail: /assets/img/project/thumbnail.jpg
 ---
-This section will be for graphic design work
