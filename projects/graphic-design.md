@@ -9,6 +9,6 @@ Graphic design, for me, is where a story lives beyond my film work.  Whether I a
   <div>{% include image.html image="projects/graphic-design/gd-02.jpg" alt="Odum 100 Years" %}</div>
   <div>{% include image.html image="projects/graphic-design/gd-03.jpg" alt="Odum CSS Level Up" %}</div>
   <div>{% include image.html image="projects/graphic-design/gd-04.jpg" alt="Odum Short Course Ad" %}</div>
-  <div>{% include image.html image="projects/graphic-design/gd-05.jpg" alt="Odum Mix Ad" %}</div>
+  <div>{% include image.html image="projects/graphic-design/gd-05.jpg" alt="Odum AI Series" %}</div>
   <div>{% include image.html image="projects/graphic-design/gd-06.jpg" alt="Job Posting Sample" %}</div>
 </div>
