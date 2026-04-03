@@ -12,3 +12,8 @@ Graphic design, for me, is where a story lives beyond my film work.  Whether I a
   <div>{% include image.html image="projects/graphic-design/gd-05.jpg" alt="Odum AI Series" %}</div>
   <div>{% include image.html image="projects/graphic-design/gd-06.jpg" alt="Job Posting Sample" %}</div>
 </div>
+
+<br>
+
+{% include image.html image="projects/graphic-design/banner-01.jpg" alt="Description of banner 1" %}
+{% include image.html image="projects/graphic-design/banner-02.jpg" alt="Description of banner 2" %}
