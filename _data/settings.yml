@@ -24,10 +24,10 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://instagram.com/blinka'}
+- {icon: 'instagram', link: 'https://instagram.com/html_user_notfound'}
 - {icon: 'github',    link: 'https://github.com/lunablinka'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/lunavanaman/'}
-- {icon: 'envelope',  link: 'mailto:lunavanaman.paul@gmail.com'}
+- {icon: 'envelope',  link: 'mailto:lunavanaman@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
