@@ -27,4 +27,4 @@ I knew that it was more likely a constructed moment than a candid one for the tw
 
 {% include image.html image="projects/thesis/thesis-image4.png" alt="" %}
 
-[Read the entire capstone thesis writeup.](/assets/projects/thesis/girls_on_grass_luna_vanaman_capstone.pdf)
+[Read the entire capstone thesis writeup.](/assets/img/projects/thesis/girls_on_grass_luna_vanaman_capstone.pdf)
