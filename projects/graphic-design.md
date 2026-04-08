@@ -9,7 +9,7 @@ Graphic design, for me, is where a story lives beyond my film work.  Whether I a
   <div>{% include image.html image="projects/graphic-design/gd-02.jpg" alt="Odum 100 Years" %}</div>
   <div>{% include image.html image="projects/graphic-design/gd-03.jpg" alt="Odum CSS Level Up" %}</div>
   <div>{% include image.html image="projects/graphic-design/gd-04.jpg" alt="Odum Short Course Ad" %}</div>
-  <div>{% include image.html image="projects/graphic-design/gd-05.jpg" alt="Odum AI Series" %}</div>
+  <div>{% include image.html image="projects/graphic-design/gd-05.jpg" alt="Odum Testimonial" %}</div>
   <div>{% include image.html image="projects/graphic-design/gd-06.jpg" alt="Job Posting Sample" %}</div>
 </div>
 
@@ -17,8 +17,8 @@ Graphic design, for me, is where a story lives beyond my film work.  Whether I a
 
 {% include image.html image="projects/graphic-design/banner-01.jpg" alt="Web Banner Design for RDMC" %}
 {% include image.html image="projects/graphic-design/banner-02.jpg" alt="Web Banner Design for RDMC" %}
-{% include image.html image="projects/graphic-design/Odum-Air-Banner.jpg" alt="Odum Air" %}
+{% include image.html image="projects/graphic-design/Odum-Air-Banner.jpg" alt="Odum AIR Web Banner" %}
 
 <br>
 
-{% include image.html image="projects/graphic-design/CSS Add.jpg" alt="Add for Odum CSS" %}
+{% include image.html image="projects/graphic-design/CSS Add.jpg" alt="Print Ad for Odum CSS" %}
