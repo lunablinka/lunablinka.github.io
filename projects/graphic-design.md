@@ -17,7 +17,7 @@ Graphic design, for me, is where a story lives beyond my film work.  Whether I a
 
 {% include image.html image="projects/graphic-design/banner-01.jpg" alt="Web Banner Design for RDMC" %}
 {% include image.html image="projects/graphic-design/banner-02.jpg" alt="Web Banner Design for RDMC" %}
-
+{% include image.html image="projects/graphic-design/Odum-Air_Banner.jpg" alt="Job Posting Sample" %}
 <br>
 
 {% include image.html image="projects/graphic-design/CSS Add.jpg" alt="Add for Odum CSS" %}
